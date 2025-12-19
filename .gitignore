@@ -104,3 +104,6 @@ PublishProfiles/
 coverage*.json
 coverage*.xml
 coverage*.info
+
+bin
+obj

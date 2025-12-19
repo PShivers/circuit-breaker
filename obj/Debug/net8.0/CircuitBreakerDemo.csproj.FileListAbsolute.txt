@@ -1,0 +1,14 @@
+/home/pshivers/code/patterns/circuit-breaker/bin/Debug/net8.0/CircuitBreakerDemo
+/home/pshivers/code/patterns/circuit-breaker/bin/Debug/net8.0/CircuitBreakerDemo.deps.json
+/home/pshivers/code/patterns/circuit-breaker/bin/Debug/net8.0/CircuitBreakerDemo.runtimeconfig.json
+/home/pshivers/code/patterns/circuit-breaker/bin/Debug/net8.0/CircuitBreakerDemo.dll
+/home/pshivers/code/patterns/circuit-breaker/bin/Debug/net8.0/CircuitBreakerDemo.pdb
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.AssemblyInfoInputs.cache
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.AssemblyInfo.cs
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.csproj.CoreCompileInputs.cache
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.dll
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/refint/CircuitBreakerDemo.dll
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.pdb
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/CircuitBreakerDemo.genruntimeconfig.cache
+/home/pshivers/code/patterns/circuit-breaker/obj/Debug/net8.0/ref/CircuitBreakerDemo.dll
